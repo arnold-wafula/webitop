@@ -52,9 +52,9 @@ class __TwigTemplate_ff2cbccd8fdd18ac5f13456e62306b04 extends Template
         echo "
     </div>
 ";
-        $___internal_parse_2_ = ('' === $tmp = ob_get_clean()) ? '' : new Markup($tmp, $this->env->getCharset());
+        $___internal_parse_3_ = ('' === $tmp = ob_get_clean()) ? '' : new Markup($tmp, $this->env->getCharset());
         // line 3
-        echo twig_spaceless($___internal_parse_2_);
+        echo twig_spaceless($___internal_parse_3_);
     }
 
     public function getTemplateName()

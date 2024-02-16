@@ -9,7 +9,7 @@
 <cost></cost>
 <cost_currency></cost_currency>
 <billing_frequency></billing_frequency>
-<cost_unit>ksh</cost_unit>
+<cost_unit></cost_unit>
 <provider_id>3</provider_id>
 <status></status>
 </CustomerContract>

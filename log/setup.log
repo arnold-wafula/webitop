@@ -653,3 +653,14 @@ Parameters:
 2024-02-09 14:12:31 | Info    |       | For theme 'light-grey' precompiled file used: 'C:\xampp\htdocs\web/data\precompiled_styles\light-grey.css' | SetupLog |||
 2024-02-09 14:12:32 | Info    |       | No theme 'light-grey' compilation was required during setup. | SetupLog |||
 2024-02-09 14:13:07 | Info    |       | <---- Exiting maintenance mode | SetupLog |||
+2024-02-16 09:49:16 | Warning |       | CompileThemes: Theme #test-red has an import (#css-variables) without explicit xsi:type, it will be ignored. Check Datamodel XML Reference to fix it. | SetupLog |||
+2024-02-16 09:49:16 | Warning |       | CompileThemes: Theme #light-grey has an import (#css-variables) without explicit xsi:type, it will be ignored. Check Datamodel XML Reference to fix it. | SetupLog |||
+2024-02-16 09:49:16 | Info    |       | For theme 'darkmoon' precompiled file used: 'C:\xampp\htdocs\web/data\precompiled_styles\darkmoon.css' | SetupLog |||
+2024-02-16 09:49:19 | Warning |       | Cannot find C:\xampp\htdocs\web/env-production/branding/themes/darkmoon/images/arrow.png (images/arrow.png) during SCSS darkmoon precompilation | SetupLog |||
+2024-02-16 09:49:19 | Info    |       | No theme 'darkmoon' compilation was required during setup. | SetupLog |||
+2024-02-16 09:49:19 | Info    |       | For theme 'fullmoon' precompiled file used: 'C:\xampp\htdocs\web/data\precompiled_styles\fullmoon.css' | SetupLog |||
+2024-02-16 09:49:20 | Info    |       | No theme 'fullmoon' compilation was required during setup. | SetupLog |||
+2024-02-16 09:49:20 | Info    |       | For theme 'test-red' precompiled file used: 'C:\xampp\htdocs\web/data\precompiled_styles\test-red.css' | SetupLog |||
+2024-02-16 09:49:21 | Info    |       | No theme 'test-red' compilation was required during setup. | SetupLog |||
+2024-02-16 09:49:21 | Info    |       | For theme 'light-grey' precompiled file used: 'C:\xampp\htdocs\web/data\precompiled_styles\light-grey.css' | SetupLog |||
+2024-02-16 09:49:21 | Info    |       | No theme 'light-grey' compilation was required during setup. | SetupLog |||

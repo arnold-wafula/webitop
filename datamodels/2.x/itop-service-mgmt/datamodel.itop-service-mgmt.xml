@@ -137,6 +137,7 @@
             <value id="euros">
               <code>euros</code>
             </value>
+            
           </values>
           <sql>cost_currency</sql>
           <default_value/>
